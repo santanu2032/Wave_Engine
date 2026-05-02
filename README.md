@@ -1,3 +1,6 @@
+![Wave Engine Architecture](banner.png)
+
+
 # 🌊 Wave_Engine (JARVIS Sensory HUD)
 
 **Wave_Engine** is a high-performance, mathematically driven UI component built natively for Android. It serves as the real-time visual telemetry HUD for the JARVIS ecosystem, rendering live audio data into a dynamic, 60fps holographic wave.
